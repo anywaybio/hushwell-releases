@@ -4,7 +4,7 @@ Downloads for Hushwell's Mac app and Chrome extension. Each release has:
 
 - `Hushwell-<version>-<build>-arm64.dmg` and `.zip`: Mac with Apple silicon (M1 and later)
 - `Hushwell-<version>-<build>-x86_64.dmg` and `.zip`: Mac with an Intel processor
-- `hushwell-chrome-<version>.zip`: the Chrome extension
+- `hushwell-extension-<version>.zip`: the Chrome extension, installed unpacked (Settings › Profile in Hushwell has the steps)
 - `SHA256SUMS`: the files' checksums
 
 ## Install on a Mac
